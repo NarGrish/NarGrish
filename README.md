@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently doing my Masters of Physics in Bonn. This includes data analysis in python and work with Verilog in FPGA projects.
+
 <!--
 **NarGrish/NarGrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
